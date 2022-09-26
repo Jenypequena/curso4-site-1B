@@ -13,4 +13,8 @@ p {
  strong {
     color: rgb(65, 150, 121);
  }
+
+ .itens{
+    font-style: italic;
+ }
   
